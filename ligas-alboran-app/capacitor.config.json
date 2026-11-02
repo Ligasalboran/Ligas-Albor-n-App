@@ -1,0 +1,8 @@
+{
+ "appId": "com.ligasalboran.app",
+ "appName": "Ligas Alborán",
+ "webDir": "www",
+ "server": {
+  "androidScheme": "https"
+ }
+}
